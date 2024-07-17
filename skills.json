@@ -7,6 +7,10 @@
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
@@ -23,10 +27,6 @@
         "icon": "https://img.icons8.com/color/48/000000/css3.png"
     },
     {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-    },
-    {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
@@ -39,7 +39,32 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    }
+        "name": "Hadoop",
+        "icon": "https://img.icons8.com/color/48/hadoop-distributed-file-system.png"
+    },
+    {
+        "name": "Kibana",
+        "icon": "https://img.icons8.com/color/48/kibana.png"
+    },
+    {
+        "name": "ElasticSearch",
+        "icon": "https://img.icons8.com/color/48/elasticsearch.png"
+    },
+    {
+        "name": "Jupyter",
+        "icon": "https://img.icons8.com/fluency/48/jupyter.png"
+    },
+    {
+        "name": "Ms Office",
+        "icon": "https://img.icons8.com/color/48/office-365.png"
+    },
+    {
+        "name": "Power BI",
+        "icon": https://img.icons8.com/color/48/powerbi.png"
+    },
+    {
+        "name": "Kafka",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    
 ]

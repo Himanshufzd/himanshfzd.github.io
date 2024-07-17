@@ -60,11 +60,15 @@
     },
     {
         "name": "Power BI",
-        "icon": "https://img.icons8.com/color/48/powerbi.png"
+        "icon": "https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"
     },
     {
         "name": "Kafka",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "icon": "https://kafka.apache.org/images/apache-kafka.png"
     },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"
+    }
     
 ]

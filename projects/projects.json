@@ -11,7 +11,7 @@
   },
   {
     "name": "Sales-Insights-Tableau",
-    "desc": "The "Sales-Insights-Tableau" project utilizes Tableau to create an interactive dashboard for comprehensive sales data analysis.",
+    "desc": "The Sales-Insights-Tableau project utilizes Tableau to create an interactive dashboard for comprehensive sales data analysis.",
     "image": "sppuprepandroid",
     "category": "Sales-Insights",
     "links": {

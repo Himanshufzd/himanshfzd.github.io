@@ -1,12 +1,12 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "Credit_Card_Financial_DashBoard",
+    "desc": "The project aims to provide comprehensive insights into credit card transactions and customer data to help stakeholders make informed decisions.",
     "image": "notystackandroid",
-    "category": "android",
+    "category": "Sales-Insights",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://github.com/Himanshufzd/Credit_Card_Financial_Dashboard/blob/main/Credit%20card%20Financial%20Dashboard-Transaction.png",
+      "code": "https://github.com/Himanshufzd/Credit_Card_Financial_Dashboard"
     }
   },
   {
